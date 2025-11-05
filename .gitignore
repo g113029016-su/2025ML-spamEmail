@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.env
+.venv/
+.venv/
+.venv/*
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# ML artifacts
+ml_output/
+ml_output/*
+ml/models/
+ml/models/*
+ml_output/models/
+ml_output/artifacts/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Streamlit secrets
+.secrets.toml
+
+# Git
+/.vscode/
+.vscode/
+
+# Ignore large model artifacts by pattern
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+
+# Node
+node_modules/
