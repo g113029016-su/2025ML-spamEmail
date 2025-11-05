@@ -56,7 +56,7 @@ Deliverables (Phase 1.5)
 - Documentation and repo integration:
   - `README.md` with project structure, how to run locally, how to deploy to Streamlit, dataset source and preprocessing steps
   - `requirements.txt` listing Python dependencies (scikit-learn, pandas, streamlit, matplotlib/seaborn, joblib, etc.)
-  - Instructions / CI steps to push to `https://github.com/huanchen1107/2025ML-spamEmail`
+  - Instructions / CI steps to push to `https://github.com/g113029016-su/2025ML-spamEmail`
 
 Notes
 - Streamlit deployment: provide a short deployment section in the README and a sample `Procfile` or instructions for Streamlit Community Cloud. Ensure secrets and large artifacts (models) are not committed; use artifacts or model hosting if needed.
